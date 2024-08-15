@@ -1,4 +1,4 @@
-#📰🌦️ Project: Responsive News and Weather Website
+📰🌦️ Project: Responsive News and Weather Website
 
 This project involves creating a responsive website that dynamically displays real-time news and weather data. The site is designed to provide a seamless and efficient user experience, ensuring quick data retrieval and intuitive navigation.
 
